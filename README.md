@@ -1,2 +1,2 @@
 # FrontEnd-Projects
-Contains frontend projects made from only HTML &amp; CSS.
+Contains frontend projects made from HTML & CSS only.
